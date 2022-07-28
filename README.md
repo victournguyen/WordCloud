@@ -3,4 +3,4 @@
 * Scrapes a website and creates an image of a word cloud, where more frequent words will have a larger font size
 
 ### Examples of Images Created
-![Cy-Fair ISD's Front Page](https://github.com/victournguyen/WordCloud/blob/master/cfisd.jpg?raw=true)
+![Cy-Fair ISD's Front Page](https://github.com/victournguyen/WordCloud/blob/master/cfisd.png?raw=true)
