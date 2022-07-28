@@ -21,9 +21,3 @@ Fig.1 - Fox News
 <p align = "center">
 Fig.1 - Banana Tree Seller Website
 </p>
-![Cy-Fair ISD's Front Page](cfisd.png)\
-Cy-Fair ISD's Front Page\
-![Fox News](foxnews.png)\
-Fox News\
-![Banana Tree Sales Website](bananatreesales.png)\
-Banana Tree Seller Website
