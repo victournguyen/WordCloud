@@ -4,5 +4,7 @@
 
 ## Examples of Images Created
 ![Cy-Fair ISD's Front Page](cfisd.png)
+
 ![Fox News](foxnews.png)
+
 ![Banana Tree Sales](bananatreesales.png)
